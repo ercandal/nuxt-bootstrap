@@ -13,7 +13,9 @@
 
 <script>
 export default {
-
+    generate: {
+    fallback: '404.html'
+  },
 }
 </script>
 
