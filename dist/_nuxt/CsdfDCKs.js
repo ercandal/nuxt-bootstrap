@@ -1,0 +1,1 @@
+import{_ as o}from"./BrO3XCYz.js";import{_ as e,c as a,b as n,w as s,o as c,d as r}from"./QLcOVF6T.js";const _={};function p(d,f,i,l,m,u){const t=o;return c(),a("div",null,[n(t,{to:"/",class:"btn btn-primary"},{default:s(()=>[r("Anasayfa")]),_:1})])}const b=e(_,[["render",p]]);export{b as default};
